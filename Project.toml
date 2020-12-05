@@ -1,0 +1,8 @@
+name = "btcj"
+uuid = "cb9c8fd7-a294-4323-af95-c1677137628c"
+authors = ["Joao Pedro Poloni Ponce <poloniponce@protonmail.ch>"]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
